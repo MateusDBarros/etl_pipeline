@@ -52,3 +52,13 @@ Example:
 ```python
 df.groupby('Product')['Revenue'].sum().plot(kind='bar')
 ```
+
+
+
+
+LinkedIn | GitHub
+<div align="center"> <h2>👨‍💻 Author</h2>
+<p>Mateus Barros</p>
+<p>Data Engineering Intern</p> 
+<a href="mailto:mateusbarrosds13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mateus-barros13"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
